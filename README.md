@@ -67,7 +67,7 @@ At the least, you should be able to:
 
 Use the [Shell Resources](#shell) to learn as much as you can about working with the UNIX shell.
 
-- [ ] Artifact contains a list of 5-10 of the commands you find most useful.
+- [X] Artifact contains a list of 5-10 of the commands you find most useful.
 
 ### Level Up your Debugging
 
@@ -84,7 +84,7 @@ At the least, you should be able to:
 
 Starting with the [Debugging Resources](#debugging), learn as much as you can about debugging tools for JavaScript and practice on your own code.
 
-- [ ] Artifact includes a list of 3+ debugging tools that you found especially useful
+- [X] Artifact includes a list of 3+ debugging tools that you found especially useful
 
 ### Get Good at Git and GitHub
 
@@ -116,7 +116,7 @@ Artifact contains the **git commands** you used to...
 - [ ] create a **commit** with a **commit message**
 - [ ] **amend** the most recent commit message
 - [ ] create and delete **branches**
-- [ ] **push** to a remote repository
+- [X] **push** to a remote repository
 - [ ] **pull** a **feature branch** from a remote repository
 - [ ] push a **local branch** to a specific remote branch
 - [ ] **revert** files back to a specific commit
@@ -161,7 +161,7 @@ If you aren't using a code editor that allows for **plugins** or extensions, you
 
 Check out the links in the [Editor Extensions and Plugins](#editor-extensions-and-plugins) section of the [Resources](#resources) to find packages for your editor of choice.
 
-- [ ] Artifact contains a list of 3+ features of your editor that you discovered
+- [X] Artifact contains a list of 3+ features of your editor that you discovered
 - [ ] Artifact contains a list of your favorite editor plugins
 
 ### Setup Homebrew and Install Some Packages
