@@ -142,7 +142,7 @@ Artifact contains the **git commands** you used to...
 - [X] **pull** a **feature branch** from a remote repository
 - [X] push a **local branch** to a specific remote branch
 - [X] **revert** files back to a specific commit
-- [ ] **rebase** a branch onto master
+- [X] **rebase** a branch onto master
 - [ ] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
 - [ ] move specific commits between different branches with the `cherry-pick` command
 
