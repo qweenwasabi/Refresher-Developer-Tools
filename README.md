@@ -68,6 +68,16 @@ At the least, you should be able to:
 Use the [Shell Resources](#shell) to learn as much as you can about working with the UNIX shell.
 
 - [X] Artifact contains a list of 5-10 of the commands you find most useful.
+```
+- control A.
+- control E.
+- control u.
+- option (click)
+- command control -c or ^C
+- Man command w
+- -ls command
+- "clear" command clears the screen
+```
 
 ### Level Up your Debugging
 
@@ -85,6 +95,18 @@ At the least, you should be able to:
 Starting with the [Debugging Resources](#debugging), learn as much as you can about debugging tools for JavaScript and practice on your own code.
 
 - [X] Artifact includes a list of 3+ debugging tools that you found especially useful
+```
+1.console.time(label) & console.timeEnd(label)
+
+The console.time() and console.timeEnd() methods give you a way of timing how long it takes for a piece of code to execute. Both the time() and timeEnd() methods should be passed the same label parameter.
+
+2.console.dirxml(object)
+
+The console.dirxml() method prints the XML representation of on a object.
+
+3. chrome tool watch
+
+```
 
 ### Get Good at Git and GitHub
 
@@ -119,7 +141,7 @@ Artifact contains the **git commands** you used to...
 - [X] **push** to a remote repository
 - [X] **pull** a **feature branch** from a remote repository
 - [X] push a **local branch** to a specific remote branch
-- [ ] **revert** files back to a specific commit
+- [X] **revert** files back to a specific commit
 - [ ] **rebase** a branch onto master
 - [ ] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
 - [ ] move specific commits between different branches with the `cherry-pick` command
