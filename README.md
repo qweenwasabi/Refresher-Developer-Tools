@@ -112,13 +112,13 @@ Pick one of your repositories and create a copy of it to use as a "sandbox" envi
 
 Artifact contains the **git commands** you used to...
 - [X] **clone** a remote repository
-- [ ] **stage** and unstage files for commit
-- [ ] create a **commit** with a **commit message**
-- [ ] **amend** the most recent commit message
-- [ ] create and delete **branches**
+- [X] **stage** and unstage files for commit
+- [X] create a **commit** with a **commit message**
+- [X] **amend** the most recent commit message
+- [X] create and delete **branches**
 - [X] **push** to a remote repository
-- [ ] **pull** a **feature branch** from a remote repository
-- [ ] push a **local branch** to a specific remote branch
+- [X] **pull** a **feature branch** from a remote repository
+- [X] push a **local branch** to a specific remote branch
 - [ ] **revert** files back to a specific commit
 - [ ] **rebase** a branch onto master
 - [ ] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
