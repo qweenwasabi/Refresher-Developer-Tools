@@ -46,7 +46,7 @@ You don't have to complete these specs in any particular order.
 
 ### General
 
-- [ ] Artifact produced is a [gist](https://gist.github.com/) with a Markdown file containing links and text
+- [X] Artifact produced is a [gist](https://gist.github.com/) with a Markdown file containing links and text
 
 ### Use the Shell Like a Pro
 
@@ -106,12 +106,12 @@ Pick one of your repositories and create a copy of it to use as a "sandbox" envi
   $ git push origin master
   ```
 
-- [ ] Sandbox **GitHub repository** is created and linked to in the artifact
-- [ ] Sandbox repo includes a `.gitignore` file with at least a few patterns included
-- [ ] Sandbox repo has at least one **pull request**
+- [X] Sandbox **GitHub repository** is created and linked to in the artifact
+- [X] Sandbox repo includes a `.gitignore` file with at least a few patterns included
+- [X] Sandbox repo has at least one **pull request**
 
 Artifact contains the **git commands** you used to...
-- [ ] **clone** a remote repository
+- [X] **clone** a remote repository
 - [ ] **stage** and unstage files for commit
 - [ ] create a **commit** with a **commit message**
 - [ ] **amend** the most recent commit message
