@@ -5,14 +5,6 @@
 
 This is for challenging yourself to see if you're able to complete the initiation goals solo. Choose this goal to refresh foundational skills or fill in any gaps you may be missing.
 
-## Challenge Rating
-
-This goal will likely be within your ZPD if you...
-
-- Have worked on a goal
-- Have used git and GitHub to do basic version control and project management tasks
-- Can read and write JavaScript
-- Are interested in becoming more effective with your developer tools and environment
 
 ## Description
 
@@ -143,7 +135,7 @@ Artifact contains the **git commands** you used to...
 - [X] push a **local branch** to a specific remote branch
 - [X] **revert** files back to a specific commit
 - [X] **rebase** a branch onto master
-- [X] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
+- [ ] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
 - [X] move specific commits between different branches with the `cherry-pick` command
 
 ### Type Faster and Better
@@ -157,7 +149,16 @@ Here are a couple of resources for you to use, but don't be limited to them if y
 - [Typing.io][typing-io] - built for programmers. Not too many options in the free edition, but a good place to practice typing _code_, not just plain English.
 - [Typing Club][typingclub] - lots of practice and lessons for all levels. They start you off at the very beginning, but you can jump ahead to any lesson and test yourself.
 
-- [ ] Artifact cites your best WPM (words per minute) score from Typing.io
+- [X] Artifact cites your best WPM (words per minute) score from Typing.io
+
+```
+Lesson Summary
+typeable characters	787
+typed characters	877
+unproductive keystroke overhead	11%
+elapsed time	5:54
+wpm	27
+```
 
 ### Practice Pair Programming
 
@@ -184,7 +185,20 @@ If you aren't using a code editor that allows for **plugins** or extensions, you
 Check out the links in the [Editor Extensions and Plugins](#editor-extensions-and-plugins) section of the [Resources](#resources) to find packages for your editor of choice.
 
 - [X] Artifact contains a list of 3+ features of your editor that you discovered
-- [ ] Artifact contains a list of your favorite editor plugins
+- [X] Artifact contains a list of your favorite editor plugins
+```
+apm install atom-beautify
+apm install atom-html-preview
+apm install autoclose-html
+apm install browser-plus
+apm install chrome-color-picker
+apm install pigments
+
+apm install linter
+apm install linter-csslint
+apm install linter-jshint
+```
+
 
 ### Setup Homebrew and Install Some Packages
 
@@ -192,7 +206,7 @@ Check out the links in the [Editor Extensions and Plugins](#editor-extensions-an
 
 Then, use the [homebrew-bundle][homebrew-bundle] package to create your own `Brewfile` to keep track of all your installed **Homebrew packages**. You may want to add this file to your `dotfiles` repo.
 
-- [ ] A `Brewfile` with your favorite Homebrew packages is linked from the artifact
+- [X] A `Brewfile` with your favorite Homebrew packages is linked from the artifact
 
 ### Stretch
 
